@@ -1,0 +1,22 @@
+# -------- Java compiled files --------
+*.class
+
+# Build / output folders
+bin/
+out/
+target/
+
+# -------- VS Code --------
+.vscode/
+
+# -------- IntelliJ --------
+.idea/
+*.iml
+
+# -------- Eclipse --------
+.project
+.classpath
+.settings/
+
+# -------- Mac junk --------
+.DS_Store
